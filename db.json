@@ -1,14 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "weeklyMenus": [
+    { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "meal": "asparagus with black mole" },
+    { "id": 1, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "meal": "chicken capers lemon" },
+    { "id": 1, "dessert": "creme brulee", "starter": "Garlic parsley bred", "meal": "fried salmon" },
+    { "id": 1, "dessert": "creme brulee", "starter": "Oysters", "meal": "Pasta a la puttanesca" },
+    { "id": 1, "dessert": "creme brulee", "starter": "Bruschetta", "meal": "Dumplings peanut sauce" },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "meals": [
+     { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "meal": "asparagus with black mole" },
+    { "id": 1, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "meal": "chicken capers lemon" },
+    { "id": 1, "dessert": "creme brulee", "starter": "Garlic parsley bred", "meal": "fried salmon" },
+    { "id": 1, "dessert": "creme brulee", "starter": "Oysters", "meal": "Pasta a la puttanesca" },
+    { "id": 1, "dessert": "creme brulee", "starter": "Bruschetta", "meal": "Dumplings peanut sauce" },
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "votes": []
 }
