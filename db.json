@@ -1,16 +1,16 @@
 {
   "weekMeals": [
-    { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "main": "asparagus with black mole", "date": "2023-06-05T00:00:00" },
-    { "id": 2, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "main": "chicken capers lemon", "date": "2023-06-06T00:00:00" },
-    { "id": 3, "dessert": "creme brulee", "starter": "Garlic parsley bred", "main": "fried salmon", "date": "2023-06-07T00:00:00" },
-    { "id": 4, "dessert": "creme brulee", "starter": "Oysters", "main": "Pasta a la puttanesca", "date": "2023-06-08T00:00:00" },
-    { "id": 5, "dessert": "creme brulee", "starter": "Bruschetta", "main": "Dumplings peanut sauce", "date": "2023-06-09T00:00:00" }
+    { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "main": "asparagus with wild garlic sauce", "date": "2023-06-05T00:00:00" },
+    { "id": 2, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "main": "Spinach garlic pasta", "date": "2023-06-06T00:00:00" },
+    { "id": 3, "dessert": "Strawberry jelly", "starter": "Garlic parsley bred", "main": "Salmon with fried beans", "date": "2023-06-07T00:00:00" },
+    { "id": 4, "dessert": "Corn mousse", "starter": "Oysters", "main": "Sea pasta kimchi", "date": "2023-06-08T00:00:00" },
+    { "id": 5, "dessert": "Mint jelly", "starter": "Bruschetta", "main": "Cauliflower season veggies", "date": "2023-06-09T00:00:00" }
   ],
   "meals": [
-    { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "main": "asparagus with black mole" },
-    { "id": 2, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "main": "chicken capers lemon" },
-    { "id": 3, "dessert": "creme brulee", "starter": "Garlic parsley bred", "meal": "fried salmon" },
-    { "id": 4, "dessert": "creme brulee", "starter": "Oysters", "meal": "Pasta a la puttanesca" },
-    { "id": 5, "dessert": "creme brulee", "starter": "Bruschetta", "meal": "Dumplings peanut sauce" }
+    { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "main": "asparagus with wild garlic sauce", },
+    { "id": 2, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "main": "Spinach garlic pasta" },
+    { "id": 3, "dessert": "Strawberry jelly", "starter": "Garlic parsley bred", "main": "Salmon with fried beans" },
+    { "id": 4, "dessert": "Corn mousse", "starter": "Oysters", "main": "Sea pasta kimchi" },
+    { "id": 5, "dessert": "Mint jelly", "starter": "Bruschetta", "main": "Cauliflower season veggies" }
   ]
 }
