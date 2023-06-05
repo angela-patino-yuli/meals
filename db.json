@@ -7,7 +7,7 @@
     { "id": 5, "dessert": "Mint jelly", "starter": "Bruschetta", "main": "Cauliflower season veggies", "date": "2023-06-09T00:00:00" }
   ],
   "meals": [
-    { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "main": "asparagus with wild garlic sauce", },
+    { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "main": "asparagus with wild garlic sauce" },
     { "id": 2, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "main": "Spinach garlic pasta" },
     { "id": 3, "dessert": "Strawberry jelly", "starter": "Garlic parsley bred", "main": "Salmon with fried beans" },
     { "id": 4, "dessert": "Corn mousse", "starter": "Oysters", "main": "Sea pasta kimchi" },
