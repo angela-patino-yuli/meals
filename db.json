@@ -10,7 +10,7 @@
     "voting": {
     "totalVotes": 90
     },
-    meals: [
+    "meals": [
     { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "main": "asparagus with wild garlic sauce", "votes": 3 },
     { "id": 2, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "main": "Spinach garlic pasta", "votes": 2 },
     { "id": 3, "dessert": "Strawberry jelly", "starter": "Garlic parsley bred", "main": "Salmon with fried beans", "votes": 18 },
