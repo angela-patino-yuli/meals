@@ -11,16 +11,16 @@
     "totalVotes": 90
     },
     meals: [
-    { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "main": "asparagus with wild garlic sauce", votes: 3 },
-    { "id": 2, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "main": "Spinach garlic pasta", votes: 2 },
-    { "id": 3, "dessert": "Strawberry jelly", "starter": "Garlic parsley bred", "main": "Salmon with fried beans", votes: 18 },
-    { "id": 4, "dessert": "Corn mousse", "starter": "Oysters", "main": "Sea pasta kimchi", votes: 10 },
-    { "id": 5, "dessert": "Mint jelly", "starter": "Bruschetta", "main": "Cauliflower season veggies", votes: 8 },
-    { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "main": "asparagus with wild garlic sauce", votes: 8 },
-    { "id": 2, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "main": "Spinach garlic pasta", votes: 15 },
-    { "id": 3, "dessert": "Strawberry jelly", "starter": "Garlic parsley bred", "main": "Salmon with fried beans", votes: 7 },
-    { "id": 4, "dessert": "Corn mousse", "starter": "Oysters", "main": "Sea pasta kimchi", votes: 11 },
-    { "id": 5, "dessert": "Mint jelly", "starter": "Bruschetta", "main": "Cauliflower season veggies", votes: 8 }
+    { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "main": "asparagus with wild garlic sauce", "votes": 3 },
+    { "id": 2, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "main": "Spinach garlic pasta", "votes": 2 },
+    { "id": 3, "dessert": "Strawberry jelly", "starter": "Garlic parsley bred", "main": "Salmon with fried beans", "votes": 18 },
+    { "id": 4, "dessert": "Corn mousse", "starter": "Oysters", "main": "Sea pasta kimchi", "votes": 10 },
+    { "id": 5, "dessert": "Mint jelly", "starter": "Bruschetta", "main": "Cauliflower season veggies", "votes": 8 },
+    { "id": 1, "dessert": "Creme brulee", "starter": "Beans stock", "main": "asparagus with wild garlic sauce", "votes": 8 },
+    { "id": 2, "dessert": "Mango sorbet", "starter": "Tomato garlic soup", "main": "Spinach garlic pasta", "votes": 15 },
+    { "id": 3, "dessert": "Strawberry jelly", "starter": "Garlic parsley bred", "main": "Salmon with fried beans", "votes": 7 },
+    { "id": 4, "dessert": "Corn mousse", "starter": "Oysters", "main": "Sea pasta kimchi", "votes": 11 },
+    { "id": 5, "dessert": "Mint jelly", "starter": "Bruschetta", "main": "Cauliflower season veggies", "votes": 8 }
     ]
 }
 }
